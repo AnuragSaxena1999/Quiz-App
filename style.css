@@ -19,7 +19,11 @@
 body{
     min-height: 100vh;
     color: var(--dark-color);
-    background-color: var(--grey-color);
+    /* background-color: var(--grey-color); */
+    background: url(image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
   
 }
 .wrapper{
